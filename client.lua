@@ -14,7 +14,7 @@ Citizen.CreateThread(function()
         local playerCount = #GetActivePlayers()
 
         SetDiscordAppId('000000000000000000') -- Discord Developer Bot ID
-		SetDiscordRichPresenceAsset('main') -- Name of the logo file
+	SetDiscordRichPresenceAsset('main') -- Name of the logo file
         SetDiscordRichPresenceAssetText('Server Name') -- Text when you hover over the logo in discord
         SetDiscordRichPresenceAction(0, "Connect", "fivem://connect/serverip") -- Connect Button
         SetDiscordRichPresenceAction(1, "Discord", "https://discord.gg/placeholder") -- Discord Button
