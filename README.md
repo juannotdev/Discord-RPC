@@ -11,4 +11,4 @@ Script was made by https://github.com/HypnoticSiege/xDiscord. All credit goes to
 - Add `ensure DiscordRPC` to your `server.cfg`
 - DONE!
 
-*Credits to [HypnoticSiege] (https://github.com/HypnoticSiege/xDiscord), [sadboilogin](https://github.com/sadboilogan/FiveM-RichPresence) & [Jeva](https://github.com/jevajs/Jeva/tree/master/FiveM%20-%20Discord%20Rich%20Presence/RichPresence)* 
+*Credits to [HypnoticSiege](https://github.com/HypnoticSiege/xDiscord), [sadboilogin](https://github.com/sadboilogan/FiveM-RichPresence) & [Jeva](https://github.com/jevajs/Jeva/tree/master/FiveM%20-%20Discord%20Rich%20Presence/RichPresence)* 
