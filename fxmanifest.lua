@@ -6,5 +6,5 @@ description 'FiveM Discord RPC by: HypnoticSiege (xDiscord)'
 version '1.0'
 
 client_scripts {
-    'client/client.lua'
+    'client.lua'
 }
